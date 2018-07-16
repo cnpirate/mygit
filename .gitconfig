@@ -1,0 +1,5 @@
+[user]
+	name = cnpirate
+	email = zhaixing@qq.com
+[http]
+	postBuffer = 2M
